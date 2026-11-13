@@ -1,0 +1,9 @@
+{"updated":"2026-11-13T13:47:54Z",
+"ci":[],
+"sim":[
+{"id":43435498513,"at":"2026-11-13T13:39:04Z","sha":"fbec5ed32","title":"webOS version: read /usr/lib/os-release when nyx's os_info.json is unreadable","pr":1376,"conclusion":"success","attempt":1,"jobs":{"macOS simulator build + launch":426,"Linux simulator build + launch":416,"Windows launcher syntax":18,"macOS tests against bundled FFmpeg and ASS":402}}
+],
+"nightly":[],
+"cancelled":{},
+"daily":[],
+"flaky":[]}
